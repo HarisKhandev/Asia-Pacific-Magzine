@@ -30,7 +30,7 @@ export function Header() {
             <Link href="/terms" className="hover:text-emerald-200 transition-colors">
               Terms
             </Link>
-            <Link href="/apply">
+            <Link href="/jobs">
               <Button variant="secondary" className="bg-white text-emerald-700 hover:bg-emerald-50">
                 Apply Now
               </Button>
