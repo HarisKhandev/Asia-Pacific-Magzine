@@ -27,12 +27,12 @@ export function Header() {
             >
               About Us
             </Link>
-            <Link
+            {/* <Link
               href="/contact"
               className="hover:text-emerald-200 transition-colors"
             >
               Contact
-            </Link>
+            </Link> */}
             <Link
               href="/terms"
               className="hover:text-emerald-200 transition-colors"

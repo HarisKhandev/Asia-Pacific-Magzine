@@ -25,11 +25,11 @@ const columnists = [
       "Leading economist specializing in Asia Pacific markets with 15+ years of experience in financial analysis.",
   },
   {
-    name: "Michael Tanaka",
-    expertise: "Technology Innovation",
+    name: "Michael Brenin",
+    expertise: "Comparative Political Systems Analyst",
     image: "/placeholder-b9jjg.png",
     description:
-      "Tech industry veteran covering emerging technologies, startups, and digital transformation across the region.",
+      "Political Systems Analyst covering emerging trends, policies, and New World Order transformation across the region.",
   },
   {
     name: "Dr. Priya Sharma",
@@ -43,7 +43,7 @@ const columnists = [
     expertise: "Business Strategy",
     image: "/placeholder-be0ae.png",
     description:
-      "Strategic business consultant helping companies navigate complex market dynamics and expansion opportunities.",
+      "Strategic Foreign Policy consultant helping nations navigate complex international dynamics and expansion opportunities.",
   },
 ];
 
@@ -62,7 +62,7 @@ export default function HomePage() {
 
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-slate-900 mb-6 text-balance animate-fade-in-up">
+            <h1 className="text-7xl md:text-7xl italic font-bold text-slate-900 mb-6 text-balance animate-fade-in-up">
               {/* Asia Pacific's Premier */}
               <span className="text-emerald-600 animate-pulse">
                 {" "}
@@ -73,12 +73,11 @@ export default function HomePage() {
               {/* Connecting opportunities, insights, and talent across the dynamic
               Asia Pacific region. Join our network of industry experts and
               discover remote career opportunities. */}
-              The Progressive presents voices of dissent and voices that are
-              under-represented in the mainstream with a goal of championing
-              grassroots progressive politics, civil liberties, human rights,
-              economic justice, a healthy environment, and a reinvigorated
-              democracy. Stay up to date in the latest happenings in activism
-              around the world with us.
+              The Physiograph presents voices that are under-represented in the
+              mainstream with a goal of championing grassroots progressive
+              politics, civil liberties, human rights, economic justice, a
+              healthy environment and a reinvigorated democracy. Stay up to date
+              in the latest happenings in activism around the world with us.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-up animation-delay-600">
               <Link href="/jobs">
@@ -126,7 +125,7 @@ export default function HomePage() {
             </div>
             <div className="animate-fade-in-up animation-delay-600">
               <div className="text-4xl font-bold text-emerald-600 mb-2">
-                98%
+                95%
               </div>
               <div className="text-slate-600">Success Rate</div>
             </div>
@@ -142,7 +141,7 @@ export default function HomePage() {
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto text-pretty animate-fade-in-up animation-delay-200">
               Experience the future of remote work with our innovative platform
-              designed for the Asia Pacific region.
+              designed for the Asia Pacific.
             </p>
           </div>
 
@@ -198,9 +197,9 @@ export default function HomePage() {
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto text-pretty animate-fade-in-up animation-delay-200">
               Discover what makes our fortnightly publication the go-to source
-              for insights on politics economy , foreign trade politics, defense
-              coordination and domestic skeleton across countries of Asia
-              Pacific
+              for insights on Politics, Economy, Foreign Trade Politics, Defence
+              Coordinations and Domestic Skeletons across countries of Asia
+              Pacific region.
             </p>
           </div>
 
@@ -212,7 +211,7 @@ export default function HomePage() {
               <h3 className="text-xl font-bold mb-2">Premium Content</h3>
               <p className="text-slate-600">
                 In-depth analysis and exclusive interviews with key
-                professionals across the region.
+                professionals across the region
               </p>
             </div>
 
@@ -223,7 +222,7 @@ export default function HomePage() {
               <h3 className="text-xl font-bold mb-2">Award-Winning</h3>
               <p className="text-slate-600">
                 Recognized for excellence in modern day journalism and digital
-                innovation.
+                innovation
               </p>
             </div>
 
@@ -233,7 +232,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold mb-2">Targeted Insights</h3>
               <p className="text-slate-600">
-                Focused coverage on rising developments and exciting prospects.
+                Focused coverage on rising developments and exciting prospects
               </p>
             </div>
           </div>
@@ -247,9 +246,9 @@ export default function HomePage() {
               Meet Our Distinguished Columnists
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto text-pretty animate-fade-in-up animation-delay-200">
-              Work alongside experts as their remote assistants. Gain valuable
-              experience while supporting thought leaders across various
-              sectors.
+              Work alongside experts as their remote assistants and gain
+              valuable experience while supporting thought leaders across
+              various sectors.
             </p>
           </div>
 
